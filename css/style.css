@@ -107,3 +107,46 @@ width: 100%;
     text-transform: capitalize;
 }
 /* row-3 CSS is end */
+
+/* row-4 css is start */
+#row4{
+    height: 400px;
+    width: 100%;
+    background: #fff;
+}
+.wedo_section{
+    width: 65%;
+    margin: 0 auto;
+    height: 100%;
+}
+.wedo_title{
+     text-align: center;
+     padding: 30px 0px;
+     font-size: 30px;
+     text-transform: uppercase;
+
+}
+.wedo_title h1{}
+.wedo_item_all{
+    padding: 50px 0px;
+}
+.wedo_item{
+    width: 29%;
+    float: left;
+    text-align: center;
+    margin-left: 30px;
+}
+.wedo_item i{
+    font-size: 33px;
+    padding-bottom: 20px;
+    color: green;
+}
+.wedo_item h2{
+ font-size: 27px;
+    padding-bottom: 25px;
+}
+.wedo_item p{
+    text-align: justify;
+}
+
+/* row-4 css is end */
