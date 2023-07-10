@@ -187,4 +187,66 @@ width: 100%;
     text-align: justify;
 }
 
-/* rowp-5 css is end */
+/* row-5 css is end */
+
+/* row-6 css is start */
+#row6{
+    height: 450px;
+    width: 100%;
+    background: url(../image/background.jpeg);
+    background-size: cover;
+    background-repeat: round;
+    position: relative;
+}
+.overlay{
+    height: 100%;
+    width: 100%;
+    background: rgba(238, 147, 92, 0.6);
+    position: absolute;
+}  
+.youget_section{
+    width: 65%;
+    margin: 0 auto;
+    height: 100%;
+}
+.youget_title{
+    text-align: center;
+    padding: 30px 0px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.youget_title h2{
+    padding-top: 30px;
+    color: #fff;
+}
+.youget_item_all{
+    padding: 50px 0px;
+   
+}
+.youget_item{
+    width: 29%; 
+    float: left;
+    text-align: center;
+    margin-left: 30px;
+    color: rgb(0, 0, 0);
+}
+.youget_item i{
+    font-size: 33px;
+    padding-bottom: 10px;
+    border: solid 2px #fff;
+    height: 75%;
+    width: 58px;
+    border-radius: 100%;
+    line-height: 35px;
+    color: black;
+    background: white;
+}
+.youget_item h4{
+    color: #fff;
+}
+.youget_item p{
+    color: #f6f3f3;
+    text-align: justify;
+}
+
+/* row-6 css is end */
