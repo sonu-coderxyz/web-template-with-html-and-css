@@ -287,3 +287,45 @@ width: 100%;
 .customer_item h4{}
 
 /* ROW-7 CSS IS end */
+
+
+/* row-8 css is start*/
+#row8{
+    height: 400px;
+    width: 100%;
+    background:#34495E 
+}
+.footer_section{
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+    padding: 50px 0px;
+}
+.footer_item_all{}
+.footer_item{
+    width: 17%;
+    float: left;
+    margin-left: 65px;
+}
+.footer_item h4{
+    color: rgb(246, 141, 125);
+}
+.footer_item p{
+    text-align: justify;
+    color: #fff;
+}
+.footer_item ul{
+    color: #fff;
+}
+.footer_item ul li{}
+.footer_item i {
+    height: 50px;
+    width: 50px;
+    font-size: 18px;
+    background: #fff;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+/* row-8 css is end */
